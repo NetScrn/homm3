@@ -1,0 +1,327 @@
+{
+    "blocks_meta": [
+        {
+            "block_id": 0,
+            "images": [
+                {
+                    "name": "tswd000.pcx",
+                    "offset": 27487
+                },
+                {
+                    "name": "tswd001.pcx",
+                    "offset": 28543
+                },
+                {
+                    "name": "tswd002.pcx",
+                    "offset": 29599
+                },
+                {
+                    "name": "tswd003.pcx",
+                    "offset": 30655
+                },
+                {
+                    "name": "tswd010.pcx",
+                    "offset": 31711
+                },
+                {
+                    "name": "tswd011.pcx",
+                    "offset": 32767
+                },
+                {
+                    "name": "tswd012.pcx",
+                    "offset": 33823
+                },
+                {
+                    "name": "tswd013.pcx",
+                    "offset": 34879
+                },
+                {
+                    "name": "tswd020.pcx",
+                    "offset": 35935
+                },
+                {
+                    "name": "tswd021.pcx",
+                    "offset": 36991
+                },
+                {
+                    "name": "tswd022.pcx",
+                    "offset": 38047
+                },
+                {
+                    "name": "tswd023.pcx",
+                    "offset": 39103
+                },
+                {
+                    "name": "tswd030.pcx",
+                    "offset": 40159
+                },
+                {
+                    "name": "tswd031.pcx",
+                    "offset": 41215
+                },
+                {
+                    "name": "tswd032.pcx",
+                    "offset": 42271
+                },
+                {
+                    "name": "tswd033.pcx",
+                    "offset": 43327
+                },
+                {
+                    "name": "tswd040.pcx",
+                    "offset": 44383
+                },
+                {
+                    "name": "tswd041.pcx",
+                    "offset": 45439
+                },
+                {
+                    "name": "tswd042.pcx",
+                    "offset": 46495
+                },
+                {
+                    "name": "tswd043.pcx",
+                    "offset": 47551
+                },
+                {
+                    "name": "tsws000.pcx",
+                    "offset": 64447
+                },
+                {
+                    "name": "tsws001.pcx",
+                    "offset": 65503
+                },
+                {
+                    "name": "tsws002.pcx",
+                    "offset": 66559
+                },
+                {
+                    "name": "tsws003.pcx",
+                    "offset": 67615
+                },
+                {
+                    "name": "tsws010.pcx",
+                    "offset": 68671
+                },
+                {
+                    "name": "tsws011.pcx",
+                    "offset": 69727
+                },
+                {
+                    "name": "tsws012.pcx",
+                    "offset": 70783
+                },
+                {
+                    "name": "tsws013.pcx",
+                    "offset": 71839
+                },
+                {
+                    "name": "tsws020.pcx",
+                    "offset": 72895
+                },
+                {
+                    "name": "tsws021.pcx",
+                    "offset": 73951
+                },
+                {
+                    "name": "tsws022.pcx",
+                    "offset": 75007
+                },
+                {
+                    "name": "tsws023.pcx",
+                    "offset": 76063
+                },
+                {
+                    "name": "tsws030.pcx",
+                    "offset": 77119
+                },
+                {
+                    "name": "tsws031.pcx",
+                    "offset": 78175
+                },
+                {
+                    "name": "tsws032.pcx",
+                    "offset": 79231
+                },
+                {
+                    "name": "tsws033.pcx",
+                    "offset": 80287
+                },
+                {
+                    "name": "tsws040.pcx",
+                    "offset": 81343
+                },
+                {
+                    "name": "tsws041.pcx",
+                    "offset": 82399
+                },
+                {
+                    "name": "tsws042.pcx",
+                    "offset": 83455
+                },
+                {
+                    "name": "tsws043.pcx",
+                    "offset": 84511
+                },
+                {
+                    "name": "tswm000.pcx",
+                    "offset": 48607
+                },
+                {
+                    "name": "tswm002.pcx",
+                    "offset": 50719
+                },
+                {
+                    "name": "tswm001.pcx",
+                    "offset": 49663
+                },
+                {
+                    "name": "tswm010.pcx",
+                    "offset": 51775
+                },
+                {
+                    "name": "tswm011.pcx",
+                    "offset": 52831
+                },
+                {
+                    "name": "tswm020.pcx",
+                    "offset": 55999
+                },
+                {
+                    "name": "tswm021.pcx",
+                    "offset": 57055
+                },
+                {
+                    "name": "tswm012.pcx",
+                    "offset": 53887
+                },
+                {
+                    "name": "tswm013.pcx",
+                    "offset": 54943
+                },
+                {
+                    "name": "tswb000.pcx",
+                    "offset": 2143
+                },
+                {
+                    "name": "tswb001.pcx",
+                    "offset": 3199
+                },
+                {
+                    "name": "tswb002.pcx",
+                    "offset": 4255
+                },
+                {
+                    "name": "tswb003.pcx",
+                    "offset": 5311
+                },
+                {
+                    "name": "tswb004.pcx",
+                    "offset": 6367
+                },
+                {
+                    "name": "tswb005.pcx",
+                    "offset": 7423
+                },
+                {
+                    "name": "tswb006.pcx",
+                    "offset": 8479
+                },
+                {
+                    "name": "tswb007.pcx",
+                    "offset": 9535
+                },
+                {
+                    "name": "tswb010.pcx",
+                    "offset": 10591
+                },
+                {
+                    "name": "tswb011.pcx",
+                    "offset": 11647
+                },
+                {
+                    "name": "tswb012.pcx",
+                    "offset": 12703
+                },
+                {
+                    "name": "tswb013.pcx",
+                    "offset": 13759
+                },
+                {
+                    "name": "tswb014.pcx",
+                    "offset": 14815
+                },
+                {
+                    "name": "tswb015.pcx",
+                    "offset": 15871
+                },
+                {
+                    "name": "tswb016.pcx",
+                    "offset": 16927
+                },
+                {
+                    "name": "tswb017.pcx",
+                    "offset": 17983
+                },
+                {
+                    "name": "tswb018.pcx",
+                    "offset": 19039
+                },
+                {
+                    "name": "tswb019.pcx",
+                    "offset": 20095
+                },
+                {
+                    "name": "tswb020.pcx",
+                    "offset": 21151
+                },
+                {
+                    "name": "tswb021.pcx",
+                    "offset": 22207
+                },
+                {
+                    "name": "tswb022.pcx",
+                    "offset": 23263
+                },
+                {
+                    "name": "tswb023.pcx",
+                    "offset": 24319
+                },
+                {
+                    "name": "tswb024.pcx",
+                    "offset": 25375
+                },
+                {
+                    "name": "tswb025.pcx",
+                    "offset": 26431
+                },
+                {
+                    "name": "tswm040.pcx",
+                    "offset": 60223
+                },
+                {
+                    "name": "tswm041.pcx",
+                    "offset": 61279
+                },
+                {
+                    "name": "tswm043.pcx",
+                    "offset": 63391
+                },
+                {
+                    "name": "tswm042.pcx",
+                    "offset": 62335
+                },
+                {
+                    "name": "tswm030.pcx",
+                    "offset": 58111
+                },
+                {
+                    "name": "tswm031.pcx",
+                    "offset": 59167
+                }
+            ]
+        }
+    ],
+    "def_type": 69,
+    "format": 0
+}

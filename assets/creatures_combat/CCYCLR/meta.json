@@ -1,0 +1,596 @@
+{
+    "blocks_meta": [
+        {
+            "block_id": 0,
+            "images": [
+                {
+                    "name": "ccyclp45.pcx",
+                    "offset": 170745
+                },
+                {
+                    "name": "ccyclp46.pcx",
+                    "offset": 174247
+                },
+                {
+                    "name": "ccyclp47.pcx",
+                    "offset": 177924
+                },
+                {
+                    "name": "ccyclp48.pcx",
+                    "offset": 181843
+                },
+                {
+                    "name": "ccyclp49.pcx",
+                    "offset": 185751
+                },
+                {
+                    "name": "ccyclp50.pcx",
+                    "offset": 189603
+                },
+                {
+                    "name": "ccyclp51.pcx",
+                    "offset": 193484
+                },
+                {
+                    "name": "ccyclp52.pcx",
+                    "offset": 197161
+                }
+            ]
+        },
+        {
+            "block_id": 1,
+            "images": [
+                {
+                    "name": "ccyclp39.pcx",
+                    "offset": 144959
+                },
+                {
+                    "name": "ccyclp40.pcx",
+                    "offset": 149467
+                },
+                {
+                    "name": "ccyclp41.pcx",
+                    "offset": 153990
+                },
+                {
+                    "name": "ccyclp42.pcx",
+                    "offset": 158510
+                },
+                {
+                    "name": "ccyclp41.pcx",
+                    "offset": 153990
+                },
+                {
+                    "name": "ccyclp40.pcx",
+                    "offset": 149467
+                },
+                {
+                    "name": "ccyclp39.pcx",
+                    "offset": 144959
+                }
+            ]
+        },
+        {
+            "block_id": 2,
+            "images": [
+                {
+                    "name": "ccyclp01.pcx",
+                    "offset": 3197
+                },
+                {
+                    "name": "ccyclp02.pcx",
+                    "offset": 7606
+                },
+                {
+                    "name": "ccyclp03.pcx",
+                    "offset": 12019
+                },
+                {
+                    "name": "ccyclp04.pcx",
+                    "offset": 16442
+                },
+                {
+                    "name": "ccyclp05.pcx",
+                    "offset": 20866
+                },
+                {
+                    "name": "ccyclp06.pcx",
+                    "offset": 25288
+                }
+            ]
+        },
+        {
+            "block_id": 3,
+            "images": [
+                {
+                    "name": "ccyclp31.pcx",
+                    "offset": 118153
+                },
+                {
+                    "name": "ccyclp30.pcx",
+                    "offset": 114411
+                },
+                {
+                    "name": "ccyclp29.pcx",
+                    "offset": 110431
+                }
+            ]
+        },
+        {
+            "block_id": 4,
+            "images": [
+                {
+                    "name": "ccyclp38.pcx",
+                    "offset": 140986
+                },
+                {
+                    "name": "ccyclp37.pcx",
+                    "offset": 137012
+                },
+                {
+                    "name": "ccyclp36.pcx",
+                    "offset": 133054
+                },
+                {
+                    "name": "ccyclp35.pcx",
+                    "offset": 129123
+                }
+            ]
+        },
+        {
+            "block_id": 5,
+            "images": [
+                {
+                    "name": "ccyclp31.pcx",
+                    "offset": 118153
+                },
+                {
+                    "name": "ccyclp30.pcx",
+                    "offset": 114411
+                },
+                {
+                    "name": "ccyclp32.pcx",
+                    "offset": 121710
+                },
+                {
+                    "name": "ccyclp33.pcx",
+                    "offset": 125049
+                },
+                {
+                    "name": "ccyclp34.pcx",
+                    "offset": 127458
+                }
+            ]
+        },
+        {
+            "block_id": 7,
+            "images": [
+                {
+                    "name": "ccyclp71.pcx",
+                    "offset": 266551
+                },
+                {
+                    "name": "ccyclp72.pcx",
+                    "offset": 270334
+                },
+                {
+                    "name": "ccyclp73.pcx",
+                    "offset": 273976
+                }
+            ]
+        },
+        {
+            "block_id": 8,
+            "images": [
+                {
+                    "name": "ccyclp73.pcx",
+                    "offset": 273976
+                },
+                {
+                    "name": "ccyclp72.pcx",
+                    "offset": 270334
+                },
+                {
+                    "name": "ccyclp71.pcx",
+                    "offset": 266551
+                }
+            ]
+        },
+        {
+            "block_id": 9,
+            "images": [
+                {
+                    "name": "ccyclp71.pcx",
+                    "offset": 266551
+                },
+                {
+                    "name": "ccyclp72.pcx",
+                    "offset": 270334
+                },
+                {
+                    "name": "ccyclp73.pcx",
+                    "offset": 273976
+                }
+            ]
+        },
+        {
+            "block_id": 10,
+            "images": [
+                {
+                    "name": "ccyclp73.pcx",
+                    "offset": 273976
+                },
+                {
+                    "name": "ccyclp72.pcx",
+                    "offset": 270334
+                },
+                {
+                    "name": "ccyclp71.pcx",
+                    "offset": 266551
+                }
+            ]
+        },
+        {
+            "block_id": 11,
+            "images": [
+                {
+                    "name": "ccyclp74.pcx",
+                    "offset": 277763
+                },
+                {
+                    "name": "ccyclp53.pcx",
+                    "offset": 200673
+                },
+                {
+                    "name": "ccyclp19.pcx",
+                    "offset": 69061
+                },
+                {
+                    "name": "ccyclp20.pcx",
+                    "offset": 73399
+                },
+                {
+                    "name": "ccyclp21.pcx",
+                    "offset": 77669
+                },
+                {
+                    "name": "ccyclp22.pcx",
+                    "offset": 81905
+                },
+                {
+                    "name": "ccyclp23.pcx",
+                    "offset": 86142
+                }
+            ]
+        },
+        {
+            "block_id": 12,
+            "images": [
+                {
+                    "name": "ccyclp74.pcx",
+                    "offset": 277763
+                },
+                {
+                    "name": "ccyclp53.pcx",
+                    "offset": 200673
+                },
+                {
+                    "name": "ccyclp24.pcx",
+                    "offset": 90148
+                },
+                {
+                    "name": "ccyclp25.pcx",
+                    "offset": 94147
+                },
+                {
+                    "name": "ccyclp26.pcx",
+                    "offset": 98254
+                },
+                {
+                    "name": "ccyclp27.pcx",
+                    "offset": 102409
+                },
+                {
+                    "name": "ccyclp28.pcx",
+                    "offset": 106516
+                }
+            ]
+        },
+        {
+            "block_id": 13,
+            "images": [
+                {
+                    "name": "ccyclp74.pcx",
+                    "offset": 277763
+                },
+                {
+                    "name": "ccyclp53.pcx",
+                    "offset": 200673
+                },
+                {
+                    "name": "ccyclp14.pcx",
+                    "offset": 52382
+                },
+                {
+                    "name": "ccyclp15.pcx",
+                    "offset": 55618
+                },
+                {
+                    "name": "ccyclp16.pcx",
+                    "offset": 58876
+                },
+                {
+                    "name": "ccyclp17.pcx",
+                    "offset": 62005
+                },
+                {
+                    "name": "ccyclp18.pcx",
+                    "offset": 65409
+                }
+            ]
+        },
+        {
+            "block_id": 14,
+            "images": [
+                {
+                    "name": "ccyclp74.pcx",
+                    "offset": 277763
+                },
+                {
+                    "name": "ccyclp53.pcx",
+                    "offset": 200673
+                },
+                {
+                    "name": "ccyclp59.pcx",
+                    "offset": 223234
+                },
+                {
+                    "name": "ccyclp60.pcx",
+                    "offset": 227192
+                },
+                {
+                    "name": "ccyclp61.pcx",
+                    "offset": 230938
+                },
+                {
+                    "name": "ccyclp62.pcx",
+                    "offset": 234687
+                },
+                {
+                    "name": "ccyclp63.pcx",
+                    "offset": 239206
+                },
+                {
+                    "name": "ccyclp64.pcx",
+                    "offset": 243078
+                },
+                {
+                    "name": "ccyclp65.pcx",
+                    "offset": 246796
+                },
+                {
+                    "name": "ccyclp09.pcx",
+                    "offset": 35557
+                },
+                {
+                    "name": "ccyclp08.pcx",
+                    "offset": 32264
+                },
+                {
+                    "name": "ccyclp07.pcx",
+                    "offset": 29702
+                },
+                {
+                    "name": "ccyclp10.pcx",
+                    "offset": 39193
+                },
+                {
+                    "name": "ccyclp11.pcx",
+                    "offset": 41985
+                },
+                {
+                    "name": "ccyclp12.pcx",
+                    "offset": 45258
+                },
+                {
+                    "name": "ccyclp13.pcx",
+                    "offset": 48865
+                }
+            ]
+        },
+        {
+            "block_id": 15,
+            "images": [
+                {
+                    "name": "ccyclp01.pcx",
+                    "offset": 3197
+                },
+                {
+                    "name": "ccyclp01.pcx",
+                    "offset": 3197
+                },
+                {
+                    "name": "ccyclp74.pcx",
+                    "offset": 277763
+                },
+                {
+                    "name": "ccyclp53.pcx",
+                    "offset": 200673
+                },
+                {
+                    "name": "ccyclp53.pcx",
+                    "offset": 200673
+                },
+                {
+                    "name": "ccyclp54.pcx",
+                    "offset": 204942
+                },
+                {
+                    "name": "ccyclp55.pcx",
+                    "offset": 208849
+                },
+                {
+                    "name": "ccyclp56.pcx",
+                    "offset": 212355
+                },
+                {
+                    "name": "ccyclp57.pcx",
+                    "offset": 215969
+                },
+                {
+                    "name": "ccyclp58.pcx",
+                    "offset": 219604
+                },
+                {
+                    "name": "ccyclp09.pcx",
+                    "offset": 35557
+                },
+                {
+                    "name": "ccyclp08.pcx",
+                    "offset": 32264
+                },
+                {
+                    "name": "ccyclp07.pcx",
+                    "offset": 29702
+                },
+                {
+                    "name": "ccyclp10.pcx",
+                    "offset": 39193
+                },
+                {
+                    "name": "ccyclp11.pcx",
+                    "offset": 41985
+                },
+                {
+                    "name": "ccyclp12.pcx",
+                    "offset": 45258
+                },
+                {
+                    "name": "ccyclp13.pcx",
+                    "offset": 48865
+                }
+            ]
+        },
+        {
+            "block_id": 16,
+            "images": [
+                {
+                    "name": "ccyclp01.pcx",
+                    "offset": 3197
+                },
+                {
+                    "name": "ccyclp01.pcx",
+                    "offset": 3197
+                },
+                {
+                    "name": "ccyclp01.pcx",
+                    "offset": 3197
+                },
+                {
+                    "name": "ccyclp74.pcx",
+                    "offset": 277763
+                },
+                {
+                    "name": "ccyclp53.pcx",
+                    "offset": 200673
+                },
+                {
+                    "name": "ccyclp66.pcx",
+                    "offset": 250462
+                },
+                {
+                    "name": "ccyclp67.pcx",
+                    "offset": 254429
+                },
+                {
+                    "name": "ccyclp68.pcx",
+                    "offset": 257469
+                },
+                {
+                    "name": "ccyclp69.pcx",
+                    "offset": 260442
+                },
+                {
+                    "name": "ccyclp70.pcx",
+                    "offset": 263485
+                },
+                {
+                    "name": "ccyclp09.pcx",
+                    "offset": 35557
+                },
+                {
+                    "name": "ccyclp08.pcx",
+                    "offset": 32264
+                },
+                {
+                    "name": "ccyclp07.pcx",
+                    "offset": 29702
+                },
+                {
+                    "name": "ccyclp10.pcx",
+                    "offset": 39193
+                },
+                {
+                    "name": "ccyclp11.pcx",
+                    "offset": 41985
+                },
+                {
+                    "name": "ccyclp12.pcx",
+                    "offset": 45258
+                },
+                {
+                    "name": "ccyclp13.pcx",
+                    "offset": 48865
+                }
+            ]
+        },
+        {
+            "block_id": 20,
+            "images": [
+                {
+                    "name": "ccyclp43.pcx",
+                    "offset": 163016
+                },
+                {
+                    "name": "ccyclp44.pcx",
+                    "offset": 166880
+                },
+                {
+                    "name": "ccyclp51.pcx",
+                    "offset": 193484
+                },
+                {
+                    "name": "ccyclp52.pcx",
+                    "offset": 197161
+                }
+            ]
+        },
+        {
+            "block_id": 21,
+            "images": [
+                {
+                    "name": "ccyclp45.pcx",
+                    "offset": 170745
+                },
+                {
+                    "name": "ccyclp46.pcx",
+                    "offset": 174247
+                },
+                {
+                    "name": "ccyclp47.pcx",
+                    "offset": 177924
+                },
+                {
+                    "name": "ccyclp48.pcx",
+                    "offset": 181843
+                },
+                {
+                    "name": "ccyclp39.pcx",
+                    "offset": 144959
+                }
+            ]
+        }
+    ],
+    "def_type": 66,
+    "format": 1
+}

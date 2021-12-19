@@ -1,0 +1,43 @@
+{
+    "blocks_meta": [
+        {
+            "block_id": 0,
+            "images": [
+                {
+                    "name": "AVTchst0.pcx",
+                    "offset": 936
+                },
+                {
+                    "name": "AVTchst1.pcx",
+                    "offset": 1993
+                },
+                {
+                    "name": "AVTchst2.pcx",
+                    "offset": 3050
+                },
+                {
+                    "name": "AVTchst3.pcx",
+                    "offset": 4107
+                },
+                {
+                    "name": "AVTchst4.pcx",
+                    "offset": 5164
+                },
+                {
+                    "name": "AVTchst5.pcx",
+                    "offset": 6221
+                },
+                {
+                    "name": "AVTchst6.pcx",
+                    "offset": 7278
+                },
+                {
+                    "name": "AVTchst7.pcx",
+                    "offset": 8335
+                }
+            ]
+        }
+    ],
+    "def_type": 67,
+    "format": 3
+}

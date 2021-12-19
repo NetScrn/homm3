@@ -1,0 +1,67 @@
+{
+    "blocks_meta": [
+        {
+            "block_id": 0,
+            "images": [
+                {
+                    "name": "AVTmyst1.pcx",
+                    "offset": 4087
+                },
+                {
+                    "name": "AVTmyst0.pcx",
+                    "offset": 1038
+                },
+                {
+                    "name": "AVTmyst1.pcx",
+                    "offset": 4087
+                },
+                {
+                    "name": "AVTmyst2.pcx",
+                    "offset": 7134
+                },
+                {
+                    "name": "AVTmyst3.pcx",
+                    "offset": 10223
+                },
+                {
+                    "name": "AVTmyst4.pcx",
+                    "offset": 13290
+                },
+                {
+                    "name": "AVTmyst5.pcx",
+                    "offset": 16328
+                },
+                {
+                    "name": "AVTmyst6.pcx",
+                    "offset": 19351
+                },
+                {
+                    "name": "AVTmyst7.pcx",
+                    "offset": 22385
+                },
+                {
+                    "name": "AVTmyst8.pcx",
+                    "offset": 25407
+                },
+                {
+                    "name": "AVTmyst9.pcx",
+                    "offset": 28495
+                },
+                {
+                    "name": "AVTmystA.pcx",
+                    "offset": 31589
+                },
+                {
+                    "name": "AVTmystB.pcx",
+                    "offset": 34658
+                },
+                {
+                    "name": "AVTmyst2.pcx",
+                    "offset": 7134
+                }
+            ]
+        }
+    ],
+    "def_type": 67,
+    "format": 3
+}

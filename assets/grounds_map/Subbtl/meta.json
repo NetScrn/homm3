@@ -1,0 +1,327 @@
+{
+    "blocks_meta": [
+        {
+            "block_id": 0,
+            "images": [
+                {
+                    "name": "tsud000.pcx",
+                    "offset": 27487
+                },
+                {
+                    "name": "tsud001.pcx",
+                    "offset": 28543
+                },
+                {
+                    "name": "tsud002.pcx",
+                    "offset": 29599
+                },
+                {
+                    "name": "tsud003.pcx",
+                    "offset": 30655
+                },
+                {
+                    "name": "tsud010.pcx",
+                    "offset": 31711
+                },
+                {
+                    "name": "tsud011.pcx",
+                    "offset": 32767
+                },
+                {
+                    "name": "tsud012.pcx",
+                    "offset": 33823
+                },
+                {
+                    "name": "tsud013.pcx",
+                    "offset": 34879
+                },
+                {
+                    "name": "tsud020.pcx",
+                    "offset": 35935
+                },
+                {
+                    "name": "tsud021.pcx",
+                    "offset": 36991
+                },
+                {
+                    "name": "tsud022.pcx",
+                    "offset": 38047
+                },
+                {
+                    "name": "tsud023.pcx",
+                    "offset": 39103
+                },
+                {
+                    "name": "tsud030.pcx",
+                    "offset": 40159
+                },
+                {
+                    "name": "tsud031.pcx",
+                    "offset": 41215
+                },
+                {
+                    "name": "tsud032.pcx",
+                    "offset": 42271
+                },
+                {
+                    "name": "tsud033.pcx",
+                    "offset": 43327
+                },
+                {
+                    "name": "tsud040.pcx",
+                    "offset": 44383
+                },
+                {
+                    "name": "tsud041.pcx",
+                    "offset": 45439
+                },
+                {
+                    "name": "tsud042.pcx",
+                    "offset": 46495
+                },
+                {
+                    "name": "tsud043.pcx",
+                    "offset": 47551
+                },
+                {
+                    "name": "tsus000.pcx",
+                    "offset": 64447
+                },
+                {
+                    "name": "tsus001.pcx",
+                    "offset": 65503
+                },
+                {
+                    "name": "tsus002.pcx",
+                    "offset": 66559
+                },
+                {
+                    "name": "tsus003.pcx",
+                    "offset": 67615
+                },
+                {
+                    "name": "tsus010.pcx",
+                    "offset": 68671
+                },
+                {
+                    "name": "tsus011.pcx",
+                    "offset": 69727
+                },
+                {
+                    "name": "tsus012.pcx",
+                    "offset": 70783
+                },
+                {
+                    "name": "tsus013.pcx",
+                    "offset": 71839
+                },
+                {
+                    "name": "tsus020.pcx",
+                    "offset": 72895
+                },
+                {
+                    "name": "tsus021.pcx",
+                    "offset": 73951
+                },
+                {
+                    "name": "tsus022.pcx",
+                    "offset": 75007
+                },
+                {
+                    "name": "tsus023.pcx",
+                    "offset": 76063
+                },
+                {
+                    "name": "tsus030.pcx",
+                    "offset": 77119
+                },
+                {
+                    "name": "tsus031.pcx",
+                    "offset": 78175
+                },
+                {
+                    "name": "tsus032.pcx",
+                    "offset": 79231
+                },
+                {
+                    "name": "tsus033.pcx",
+                    "offset": 80287
+                },
+                {
+                    "name": "tsus040.pcx",
+                    "offset": 81343
+                },
+                {
+                    "name": "tsus041.pcx",
+                    "offset": 82399
+                },
+                {
+                    "name": "tsus042.pcx",
+                    "offset": 83455
+                },
+                {
+                    "name": "tsus043.pcx",
+                    "offset": 84511
+                },
+                {
+                    "name": "tsum000.pcx",
+                    "offset": 48607
+                },
+                {
+                    "name": "tsum002.pcx",
+                    "offset": 50719
+                },
+                {
+                    "name": "tsum001.pcx",
+                    "offset": 49663
+                },
+                {
+                    "name": "tsum010.pcx",
+                    "offset": 51775
+                },
+                {
+                    "name": "tsum011.pcx",
+                    "offset": 52831
+                },
+                {
+                    "name": "tsum020.pcx",
+                    "offset": 55999
+                },
+                {
+                    "name": "tsum021.pcx",
+                    "offset": 57055
+                },
+                {
+                    "name": "tsum012.pcx",
+                    "offset": 53887
+                },
+                {
+                    "name": "tsum013.pcx",
+                    "offset": 54943
+                },
+                {
+                    "name": "tsub000.pcx",
+                    "offset": 2143
+                },
+                {
+                    "name": "tsub001.pcx",
+                    "offset": 3199
+                },
+                {
+                    "name": "tsub002.pcx",
+                    "offset": 4255
+                },
+                {
+                    "name": "tsub003.pcx",
+                    "offset": 5311
+                },
+                {
+                    "name": "tsub004.pcx",
+                    "offset": 6367
+                },
+                {
+                    "name": "tsub005.pcx",
+                    "offset": 7423
+                },
+                {
+                    "name": "tsub006.pcx",
+                    "offset": 8479
+                },
+                {
+                    "name": "tsub007.pcx",
+                    "offset": 9535
+                },
+                {
+                    "name": "tsub010.pcx",
+                    "offset": 10591
+                },
+                {
+                    "name": "tsub011.pcx",
+                    "offset": 11647
+                },
+                {
+                    "name": "tsub012.pcx",
+                    "offset": 12703
+                },
+                {
+                    "name": "tsub013.pcx",
+                    "offset": 13759
+                },
+                {
+                    "name": "tsub014.pcx",
+                    "offset": 14815
+                },
+                {
+                    "name": "tsub015.pcx",
+                    "offset": 15871
+                },
+                {
+                    "name": "tsub016.pcx",
+                    "offset": 16927
+                },
+                {
+                    "name": "tsub017.pcx",
+                    "offset": 17983
+                },
+                {
+                    "name": "tsub018.pcx",
+                    "offset": 19039
+                },
+                {
+                    "name": "tsub019.pcx",
+                    "offset": 20095
+                },
+                {
+                    "name": "tsub020.pcx",
+                    "offset": 21151
+                },
+                {
+                    "name": "tsub021.pcx",
+                    "offset": 22207
+                },
+                {
+                    "name": "tsub022.pcx",
+                    "offset": 23263
+                },
+                {
+                    "name": "tsub023.pcx",
+                    "offset": 24319
+                },
+                {
+                    "name": "tsub024.pcx",
+                    "offset": 25375
+                },
+                {
+                    "name": "tsub025.pcx",
+                    "offset": 26431
+                },
+                {
+                    "name": "tsum040.pcx",
+                    "offset": 60223
+                },
+                {
+                    "name": "tsum041.pcx",
+                    "offset": 61279
+                },
+                {
+                    "name": "tsum043.pcx",
+                    "offset": 63391
+                },
+                {
+                    "name": "tsum042.pcx",
+                    "offset": 62335
+                },
+                {
+                    "name": "tsum030.pcx",
+                    "offset": 58111
+                },
+                {
+                    "name": "tsum031.pcx",
+                    "offset": 59167
+                }
+            ]
+        }
+    ],
+    "def_type": 69,
+    "format": 0
+}

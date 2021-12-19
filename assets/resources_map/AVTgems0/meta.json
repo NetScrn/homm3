@@ -1,0 +1,43 @@
+{
+    "blocks_meta": [
+        {
+            "block_id": 0,
+            "images": [
+                {
+                    "name": "AVTgems0.pcx",
+                    "offset": 936
+                },
+                {
+                    "name": "AVTgems1.pcx",
+                    "offset": 1801
+                },
+                {
+                    "name": "AVTgems2.pcx",
+                    "offset": 2666
+                },
+                {
+                    "name": "AVTgems3.pcx",
+                    "offset": 3531
+                },
+                {
+                    "name": "AVTgems4.pcx",
+                    "offset": 4395
+                },
+                {
+                    "name": "AVTgems5.pcx",
+                    "offset": 5268
+                },
+                {
+                    "name": "AVTgems6.pcx",
+                    "offset": 6137
+                },
+                {
+                    "name": "AVTgems7.pcx",
+                    "offset": 7002
+                }
+            ]
+        }
+    ],
+    "def_type": 67,
+    "format": 3
+}

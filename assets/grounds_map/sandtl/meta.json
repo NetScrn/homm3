@@ -1,0 +1,107 @@
+{
+    "blocks_meta": [
+        {
+            "block_id": 0,
+            "images": [
+                {
+                    "name": "tsab000.pcx",
+                    "offset": 1208
+                },
+                {
+                    "name": "tsab001.pcx",
+                    "offset": 2264
+                },
+                {
+                    "name": "tsab002.pcx",
+                    "offset": 3320
+                },
+                {
+                    "name": "tsab003.pcx",
+                    "offset": 4376
+                },
+                {
+                    "name": "tsab004.pcx",
+                    "offset": 5432
+                },
+                {
+                    "name": "tsab005.pcx",
+                    "offset": 6488
+                },
+                {
+                    "name": "tsab006.pcx",
+                    "offset": 7544
+                },
+                {
+                    "name": "tsab007.pcx",
+                    "offset": 8600
+                },
+                {
+                    "name": "tsab010.pcx",
+                    "offset": 9656
+                },
+                {
+                    "name": "tsab011.pcx",
+                    "offset": 10712
+                },
+                {
+                    "name": "tsab012.pcx",
+                    "offset": 11768
+                },
+                {
+                    "name": "tsab013.pcx",
+                    "offset": 12824
+                },
+                {
+                    "name": "tsab014.pcx",
+                    "offset": 13880
+                },
+                {
+                    "name": "tsab015.pcx",
+                    "offset": 14936
+                },
+                {
+                    "name": "tsab016.pcx",
+                    "offset": 15992
+                },
+                {
+                    "name": "tsab017.pcx",
+                    "offset": 17048
+                },
+                {
+                    "name": "tsab018.pcx",
+                    "offset": 18104
+                },
+                {
+                    "name": "tsab019.pcx",
+                    "offset": 19160
+                },
+                {
+                    "name": "tsab020.pcx",
+                    "offset": 20216
+                },
+                {
+                    "name": "tsab021.pcx",
+                    "offset": 21272
+                },
+                {
+                    "name": "tsab022.pcx",
+                    "offset": 22328
+                },
+                {
+                    "name": "tsab023.pcx",
+                    "offset": 23384
+                },
+                {
+                    "name": "tsab024.pcx",
+                    "offset": 24440
+                },
+                {
+                    "name": "tsab025.pcx",
+                    "offset": 25496
+                }
+            ]
+        }
+    ],
+    "def_type": 69,
+    "format": 0
+}

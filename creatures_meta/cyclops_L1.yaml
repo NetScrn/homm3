@@ -1,0 +1,14 @@
+object_name: cyclops_L1
+original_object_name: CCYCLR
+move_frames: AVWcycl
+attack: 15
+defence: 12
+damage_min: 16
+damage_max: 20
+health: 70
+speed: 6
+shots: 16
+cost_per_unit: 750
+growth: 2
+movement: ground
+size_on_combat_map: 1

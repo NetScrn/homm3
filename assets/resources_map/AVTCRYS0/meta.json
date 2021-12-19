@@ -1,0 +1,43 @@
+{
+    "blocks_meta": [
+        {
+            "block_id": 0,
+            "images": [
+                {
+                    "name": "AVTcrys0.pcx",
+                    "offset": 936
+                },
+                {
+                    "name": "AVTcrys1.pcx",
+                    "offset": 2027
+                },
+                {
+                    "name": "AVTcrys2.pcx",
+                    "offset": 3118
+                },
+                {
+                    "name": "AVTcrys3.pcx",
+                    "offset": 4209
+                },
+                {
+                    "name": "AVTcrys4.pcx",
+                    "offset": 5300
+                },
+                {
+                    "name": "AVTcrys5.pcx",
+                    "offset": 6393
+                },
+                {
+                    "name": "AVTcrys6.pcx",
+                    "offset": 7484
+                },
+                {
+                    "name": "AVTcrys7.pcx",
+                    "offset": 8575
+                }
+            ]
+        }
+    ],
+    "def_type": 67,
+    "format": 3
+}

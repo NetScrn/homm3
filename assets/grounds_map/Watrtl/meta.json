@@ -1,0 +1,143 @@
+{
+    "blocks_meta": [
+        {
+            "block_id": 0,
+            "images": [
+                {
+                    "name": "watrtl01.pcx",
+                    "offset": 1361
+                },
+                {
+                    "name": "watrtl02.pcx",
+                    "offset": 2417
+                },
+                {
+                    "name": "watrtl03.pcx",
+                    "offset": 3473
+                },
+                {
+                    "name": "watrtl04.pcx",
+                    "offset": 4529
+                },
+                {
+                    "name": "watrtl05.pcx",
+                    "offset": 5585
+                },
+                {
+                    "name": "watrtl06.pcx",
+                    "offset": 6641
+                },
+                {
+                    "name": "watrtl07.pcx",
+                    "offset": 7697
+                },
+                {
+                    "name": "watrtl08.pcx",
+                    "offset": 8753
+                },
+                {
+                    "name": "watrtl09.pcx",
+                    "offset": 9809
+                },
+                {
+                    "name": "watrtl10.pcx",
+                    "offset": 10865
+                },
+                {
+                    "name": "watrtl11.pcx",
+                    "offset": 11921
+                },
+                {
+                    "name": "watrtl12.pcx",
+                    "offset": 12977
+                },
+                {
+                    "name": "watrtl13.pcx",
+                    "offset": 14033
+                },
+                {
+                    "name": "watrtl14.pcx",
+                    "offset": 15089
+                },
+                {
+                    "name": "watrtl15.pcx",
+                    "offset": 16145
+                },
+                {
+                    "name": "watrtl16.pcx",
+                    "offset": 17201
+                },
+                {
+                    "name": "watrtl17.pcx",
+                    "offset": 18257
+                },
+                {
+                    "name": "watrtl18.pcx",
+                    "offset": 19313
+                },
+                {
+                    "name": "watrtl19.pcx",
+                    "offset": 20369
+                },
+                {
+                    "name": "watrtl20.pcx",
+                    "offset": 21425
+                },
+                {
+                    "name": "watrtl21.pcx",
+                    "offset": 22481
+                },
+                {
+                    "name": "watrtl22.pcx",
+                    "offset": 23537
+                },
+                {
+                    "name": "watrtl23.pcx",
+                    "offset": 24593
+                },
+                {
+                    "name": "watrtl24.pcx",
+                    "offset": 25649
+                },
+                {
+                    "name": "watrtl25.pcx",
+                    "offset": 26705
+                },
+                {
+                    "name": "watrtl26.pcx",
+                    "offset": 27761
+                },
+                {
+                    "name": "watrtl27.pcx",
+                    "offset": 28817
+                },
+                {
+                    "name": "watrtl28.pcx",
+                    "offset": 29873
+                },
+                {
+                    "name": "watrtl29.pcx",
+                    "offset": 30929
+                },
+                {
+                    "name": "watrtl30.pcx",
+                    "offset": 31985
+                },
+                {
+                    "name": "watrtl31.pcx",
+                    "offset": 33041
+                },
+                {
+                    "name": "watrtl32.pcx",
+                    "offset": 34097
+                },
+                {
+                    "name": "watrtl33.pcx",
+                    "offset": 35153
+                }
+            ]
+        }
+    ],
+    "def_type": 69,
+    "format": 0
+}
